@@ -6,7 +6,7 @@ The backend server is now running.
 For the database, use postgresql.
 Refer to the .env file for the details.
 Take note of the database name, which is OCD.
-Also, create a table named "disasters"
+Also, create a table named "disasters".
 Columns are the following:
 disaster_id : integer and primary key, auto incremented
 province : char varying
